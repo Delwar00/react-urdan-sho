@@ -1,0 +1,77 @@
+{
+  "products": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "sada",
+      "slug": "sada"
+    },
+    {
+      "id": 2,
+      "name": "sda dadsa",
+      "slug": "sda-dadsa"
+    },
+    {
+      "id": 3,
+      "name": "sa ddsf",
+      "slug": "sa-ddsf"
+    },
+    {
+      "id": 4,
+      "name": "dfds dsfs",
+      "slug": "dfds-dsfs"
+    },
+    {
+      "id": 5,
+      "name": "dsfsd dfsf",
+      "slug": "dsfsd-dfsf"
+    },
+    {
+      "id": 6,
+      "name": "Panjabi",
+      "slug": "panjabi"
+    },
+    {
+      "id": 7,
+      "name": "Test",
+      "slug": "test"
+    },
+    {
+      "name": "sd",
+      "slug": "sd",
+      "id": 8
+    },
+    {
+      "name": "dsadsa dsd",
+      "slug": "dsadsa-dsd",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "sdad",
+      "slug": "sdad"
+    },
+    {
+      "id": 11,
+      "name": "dsfdfs",
+      "slug": "dsfdfs"
+    },
+    {
+      "name": "Dfghs shgs D",
+      "slug": "dfghs-shgs-d",
+      "id": 12
+    }
+  ],
+  "tags": [
+    {
+      "name": "Men Fashions",
+      "slug": "men-fashions",
+      "id": 2
+    },
+    {
+      "name": "Women Fashion",
+      "slug": "women-fashion",
+      "id": 3
+    }
+  ]
+}
